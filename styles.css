@@ -19,8 +19,8 @@ body {
 .main-container {
     display: flex;
     flex-direction: row-reverse;
-    height: 400px;
-    width: 1000px;
+    height: 550px;
+    width: 1150px;
     background-color: hsl(244, 38%, 16%);
     border-radius: 10px;
 }
@@ -32,16 +32,16 @@ body {
 }
 
 #purple-background {
-    background-color: hsl(277, 64%, 61%);
+    background-color: hsl(277, 64%, 51%);
     position: absolute;
     width: 500px;
-    height: 400px;
+    height: 550px;
     opacity: 0.6;
     border-radius: 0px 10px 10px 0px;
 }
 
 img {
-    height: 400px;
+    height: 550px;
     width: 500px;
     border-radius: 0px 10px 10px 0px;
 }
@@ -56,21 +56,24 @@ img {
 }
 
 #title {
-    width: 90%;
-    font-size: 30px;
+    width: 80%;
+    font-size: 38px;
     color: hsl(0, 0%, 100%);
-    margin-left: -20px;
-    margin-top: 20px;
+    margin-left: -60px;
+    position: relative;
+    top: 20px;
 }
 
 #paragraph {
     width: 85%;
-    font-size: 14px;
+    font-size: 18px;
     font-weight: 400;
     margin-left: -40px;
     margin-top: 20px;
     line-height: 1.8;
     color: hsla(0, 0%, 100%, 0.6);
+    position: relative;
+    top: 30px;
 }
 
 #purple {
@@ -92,8 +95,7 @@ img {
     font-size: 10px;
     text-transform: uppercase;
     letter-spacing: 1px;
-    position: relative;
-    bottom: 20px;
+    margin-top: -50px;
 }
 
 #companies {
