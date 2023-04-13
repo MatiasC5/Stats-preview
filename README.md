@@ -43,10 +43,6 @@ Users should be able to:
 - Mobile-first workflow
 
 
-### What I learned
-
-I learned to place a color on an image
-
 
 ## Author
 
