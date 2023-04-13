@@ -150,7 +150,7 @@ img {
     #text-container {
         text-align: center;
         position: relative;
-        top: 150px;
+        top: 50px;
         width: 100%;
 
     }
@@ -174,15 +174,15 @@ img {
 
 
     #title {
+        font-size: 26px;
         position: relative;
-        left: 10px;
-        bottom: 10px;
+        left: 30px;
+        bottom: 170px;
     }
 
     #paragraph {
         position: relative;
         left: 20px;
-        bottom: 10px;
         width: 80%;
         font-size: 15px;
     }
@@ -192,8 +192,8 @@ img {
         flex-direction: column;
         justify-content: center;
         position: relative;
-        top: 100px;
-        gap: 30px;
+        top: 135px;
+        gap:80px;
 
     }
 
